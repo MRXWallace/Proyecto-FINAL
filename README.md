@@ -5,7 +5,7 @@
 
 # Vuelos Comerciales
 
-![HenryMoon]("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bc0a4715-c860-464f-88e4-3045f9106b4c/d8kgg6n-59fc17d1-aad2-47f0-b036-2a7c522dd403.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JjMGE0NzE1LWM4NjAtNDY0Zi04OGU0LTMwNDVmOTEwNmI0Y1wvZDhrZ2c2bi01OWZjMTdkMS1hYWQyLTQ3ZjAtYjAzNi0yYTdjNTIyZGQ0MDMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.G6xjMhhhbjE4SigACvtsuhQDCWDfAMHqSFvVTdQl8mk" width="80%")
+(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bc0a4715-c860-464f-88e4-3045f9106b4c/d8kgg6n-59fc17d1-aad2-47f0-b036-2a7c522dd403.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JjMGE0NzE1LWM4NjAtNDY0Zi04OGU0LTMwNDVmOTEwNmI0Y1wvZDhrZ2c2bi01OWZjMTdkMS1hYWQyLTQ3ZjAtYjAzNi0yYTdjNTIyZGQ0MDMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.G6xjMhhhbjE4SigACvtsuhQDCWDfAMHqSFvVTdQl8mk)
 
 
 # <h1 align="center">**`¡Bienvenidos a bordo!`**</h1>
@@ -28,7 +28,7 @@ El Departamento de Transporte de Estados Unidos (U.S. DOT) contrató nuestros se
 # Equipo de Trabajo
 
 * [Alejandro Aguilera](https://www.linkedin.com/in/alejandroaguilerawilches/) - Data Analyst 
-* [Alan Sánchez](https://www.linkedin.com/in/tom%C3%A1s-astrada-370b73171/) - Data Analyst
+* [Alan Sánchez](https://github.com/MRXWallace) - Data Analyst
 * [Christian Fajardo](https://www.linkedin.com/in/christian-fajardo-338929241/) - Data Engineer
 * [Eduardo Carhuaricra](https://www.linkedin.com/in/carlos-eduardo-carhuaricra-jaimes-9b1422197/) - Data Analyst 
 
