@@ -3,10 +3,12 @@
 
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
-# Vuelos Comerciales
+# <h1 align="center">**`VUELOS COMERCIALES`**</h1>
 
-(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bc0a4715-c860-464f-88e4-3045f9106b4c/d8kgg6n-59fc17d1-aad2-47f0-b036-2a7c522dd403.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JjMGE0NzE1LWM4NjAtNDY0Zi04OGU0LTMwNDVmOTEwNmI0Y1wvZDhrZ2c2bi01OWZjMTdkMS1hYWQyLTQ3ZjAtYjAzNi0yYTdjNTIyZGQ0MDMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.G6xjMhhhbjE4SigACvtsuhQDCWDfAMHqSFvVTdQl8mk)
-
+<p align="center">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bc0a4715-c860-464f-88e4-3045f9106b4c/d8kgg6n-59fc17d1-aad2-47f0-b036-2a7c522dd403.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JjMGE0NzE1LWM4NjAtNDY0Zi04OGU0LTMwNDVmOTEwNmI0Y1wvZDhrZ2c2bi01OWZjMTdkMS1hYWQyLTQ3ZjAtYjAzNi0yYTdjNTIyZGQ0MDMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.G6xjMhhhbjE4SigACvtsuhQDCWDfAMHqSFvVTdQl8mk"   
+height="400">
+</p>
 
 # <h1 align="center">**`¡Bienvenidos a bordo!`**</h1>
 
@@ -57,10 +59,10 @@ Los datasets entregados por el Product Owner se descargaron y fueron almacenados
 Creamos un Bucket en Google Cloud Storage(Data Lake) donde se almacenarán los datasets raw en la nube. Para esto, fue necesario crear una cuenta de servicio en el portal de Google Cloud Platform y crear un script donde automatice este paso y trabar en función con los demas.
 
 # 2. Transform
-Unión de varios datasets
-Separación y eliminación de columnas
-Cambio de nombres de columnas
-Cambio de esquemas
+* Unión de varios datasets
+* Separación y eliminación de columnas
+* Cambio de nombres de columnas
+* Cambio de esquemas
 
 # 3. Carga 
 Conexión y Carga de datos en la base de datos de Google BigQuery (Data Warehouse) con sus respectivos esquemas y transformaciones. 
