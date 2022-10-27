@@ -20,7 +20,7 @@ height="400">
 4. Cronograma a la fecha
 5. Objetivo General
 6. Solución: Data Pipeline
-7. Diccionario de los datos
+7. Proceso
 
 
 # Descripción general
@@ -36,7 +36,9 @@ El Departamento de Transporte de Estados Unidos (U.S. DOT) contrató nuestros se
 
 
 # Metodología de trabajo
-/// imagen ///
+Durante el desarrollo de este proyecto usamos la metodología ágil Scrum, estableciendo dailys que duran 15 min, donde cada integrante informará de avances, oportunidades, y la tarea diaria.
+![image](https://user-images.githubusercontent.com/104389347/198344499-646b5510-685a-4707-9c84-0f5dcb11d7a0.png)
+
 
 # Cronograma
 
@@ -49,7 +51,8 @@ El Departamento de Transporte de Estados Unidos (U.S. DOT) contrató nuestros se
 # Solución : Data Architecture && Pipelines
 
 **Diagrama flujo del dato**
-//Imagen//
+![image](https://user-images.githubusercontent.com/104389347/198344913-8343485f-ceda-4245-b1f3-7c0fa83eea99.png)
+
 Estructura de Datos End-to-End 
 
 # 1. Extract 
@@ -68,7 +71,9 @@ Creamos un Bucket en Google Cloud Storage(Data Lake) donde se almacenarán los d
 Conexión y Carga de datos en la base de datos de Google BigQuery (Data Warehouse) con sus respectivos esquemas y transformaciones. 
 Para todo este proceso se creo una infraestructura de conexiones y herramientas de Google Cloud Platform asi como crear una instancia de Airflow con Google Composer para la orquesta y automatización de flujo de datos.
 
-# Diccionario de los Datos
+# Proceso
+![image](https://user-images.githubusercontent.com/104389347/198345324-2374ecbd-0e4e-4b5e-9cd5-912ae0316ed7.png)
+
 
 
 
