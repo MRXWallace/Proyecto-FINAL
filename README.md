@@ -74,7 +74,7 @@ Para todo este proceso se creo una infraestructura de conexiones y herramientas 
 # Proceso
 ![image](https://user-images.githubusercontent.com/104389347/198345324-2374ecbd-0e4e-4b5e-9cd5-912ae0316ed7.png)
 Video del Proceso : [ETL](https://github.com/Christiancarlosf/Proyecto-FINAL/blob/main/images/ETLPROCESS.mp4)
-DOCS: [WIKI]([https://github.com/Christiancarlosf/Proyecto-FINAL/blob/main/images/ETLPROCESS.mp4](https://github.com/Christiancarlosf/Proyecto-FINAL/wiki/Main))
+DOCS: [WIKI](https://github.com/Christiancarlosf/Proyecto-FINAL/wiki/Main)
 
 
 
