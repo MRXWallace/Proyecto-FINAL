@@ -42,7 +42,7 @@ Durante el desarrollo de este proyecto usamos la metodología ágil Scrum, estab
 
 # Cronograma
 
-/// imagen ///
+![image](https://user-images.githubusercontent.com/104389347/198348076-21c5938b-bb61-4a8a-8185-51416eadb39c.png)
 
 # Objetivo General
 ° Describir la variabilidad en la cancelación de vuelos y factores que intervienen en la misma.
@@ -73,7 +73,7 @@ Para todo este proceso se creo una infraestructura de conexiones y herramientas 
 
 # Proceso
 ![image](https://user-images.githubusercontent.com/104389347/198345324-2374ecbd-0e4e-4b5e-9cd5-912ae0316ed7.png)
-
+Video del Proceso : [ETL](https://github.com/Christiancarlosf/Proyecto-FINAL/blob/main/images/ETLPROCESS.mp4)
 
 
 
