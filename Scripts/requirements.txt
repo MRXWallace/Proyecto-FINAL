@@ -19,4 +19,4 @@ google-resumable-media==2.4.0
 googleapis-common-protos==1.56.4
 kaggle==1.5.12
 simplejson==3.17.6
-zipp==3.8.1
+zipp==3.8.1 
