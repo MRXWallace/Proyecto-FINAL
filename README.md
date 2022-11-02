@@ -30,7 +30,7 @@ El Departamento de Transporte de Estados Unidos (U.S. DOT) contrató nuestros se
 # Equipo de Trabajo
 
 * [Alejandro Aguilera](https://www.linkedin.com/in/alejandroaguilerawilches/) - Data Analyst 
-* [Alan Sánchez](https://github.com/MRXWallace) - Data Analyst
+* [Alan Sánchez](https://github.com/MRXWallace) - Data Scientist
 * [Christian Fajardo](https://www.linkedin.com/in/christian-fajardo-338929241/) - Data Engineer
 * [Eduardo Carhuaricra](https://www.linkedin.com/in/carlos-eduardo-carhuaricra-jaimes-9b1422197/) - Data Analyst 
 
